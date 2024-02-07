@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manjukannan22
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently working in Python
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me manjukannan225@gmail.com
 
